@@ -144,7 +144,7 @@ O sistema utiliza um algoritmo de **força-bruta inteligente** que:
 - [ ] **Relatórios avançados** com gráficos
 - [ ] **Múltiplos algoritmos** de otimização
 
-## �� Contribuição
+## 📄 Contribuição
 
 Contribuições são bem-vindas! Para contribuir:
 
@@ -160,7 +160,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-**Rogério Maestri**
+**Roger Maestri**
 - Desenvolvedor Python
 - Especialista em otimização e automação
 - Contato: [seu-email@exemplo.com]
