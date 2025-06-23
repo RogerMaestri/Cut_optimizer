@@ -1,0 +1,22 @@
+# Otimizador de Cortes de Mantas PRI
+# Dependências do projeto
+
+# Interface gráfica (geralmente já vem com Python)
+# tkinter
+
+# Bibliotecas padrão do Python (não precisam ser instaladas)
+# os
+# datetime
+# itertools
+
+# Para desenvolvimento (opcional)
+# flake8>=4.0.0
+# black>=22.0.0
+# mypy>=0.950
+
+# Para PDF (futuro)
+# reportlab>=3.6.0
+
+# Para interface web (futuro)
+# flask>=2.0.0
+# flask-cors>=3.0.0 
