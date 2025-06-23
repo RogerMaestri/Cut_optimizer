@@ -44,6 +44,28 @@ cd cut_optimizer_project
 python cut_optimizer.py
 ```
 
+## 📚 Documentação
+
+### 📖 Documentação Técnica Completa
+Para desenvolvedores e usuários avançados, consulte a **[Documentação Técnica Completa](DOCUMENTACAO_TECNICA.md)** que inclui:
+
+- **🏗️ Arquitetura do Sistema**: Estrutura modular e componentes
+- **🧮 Algoritmo Detalhado**: Pseudocódigo e otimizações implementadas
+- **📊 Estruturas de Dados**: Representação de peças e faixas
+- **🎨 Interface Gráfica**: Layout, componentes e design de usabilidade
+- **⚙️ Sistema de Processamento**: Fluxo de execução e validações
+- **📤 Sistema de Exportação**: Formatos suportados e estrutura
+- **🧪 Testes e Validação**: Cenários de teste e métricas de qualidade
+- **🚀 Deployment**: Requisitos, dependências e distribuição
+- **🔧 Manutenção**: Monitoramento e evolução do sistema
+- **🔒 Segurança**: Considerações de segurança implementadas
+- **📋 API**: Documentação completa das funções principais
+
+### 📋 Documentação Rápida
+- **CLAUDE.md**: Histórico de desenvolvimento e decisões técnicas
+- **requirements.txt**: Dependências do projeto
+- **LICENSE**: Licença MIT
+
 ## 🎮 Como Usar
 
 ### 1. Configurar Dimensões do Rolo
@@ -122,7 +144,7 @@ O sistema utiliza um algoritmo de **força-bruta inteligente** que:
 - [ ] **Relatórios avançados** com gráficos
 - [ ] **Múltiplos algoritmos** de otimização
 
-## 🤝 Contribuição
+## �� Contribuição
 
 Contribuições são bem-vindas! Para contribuir:
 
